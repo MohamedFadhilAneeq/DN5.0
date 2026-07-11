@@ -8,6 +8,6 @@ public class TestClass {
         int b = 3;
         int expectedSum = 5;
         assertEquals(expectedSum, a + b);
-        System.out.println("Test passed: " + a + " + " + b + " = " + expectedSum);
+        System.out.println("Test passed: " + a + " + " + b + " = " + expectedSum);  
     }
 }
